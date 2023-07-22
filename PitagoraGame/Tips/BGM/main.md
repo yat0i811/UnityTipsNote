@@ -4,7 +4,6 @@
 
 1. BGMをアタッチするためのゲームオブジェクトを作成する
     - Hierarchyで右クリック ➡ CreateEmpty ➡ オブジェクトを作成<br>
-<br>
 
 1. 作成したオブジェクトをクリックし、Inspector内のAdd ComponentからAudio > Audio Sourceを選択
 
